@@ -1,9 +1,22 @@
 ﻿<Properties StartupConfiguration="{6975564D-529D-44CC-8EE6-D67E48A2C0E0}|Default">
   <MonoDevelop.Ide.ItemProperties.GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyClass.cs">
     <Files>
-      <File FileName="Program.cs" Line="10" Column="15" />
+      <File FileName="Program.cs" Line="6" Column="5" />
+      <File FileName="EmptyClass.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GradeBook" expanded="True">
+            <Node name="GradeBook" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
