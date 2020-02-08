@@ -7,21 +7,14 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-            var Book = new Book("Kevin's book");
-            Book.AddGrade(78.1;
 
+            var book = new Book("Kevin's Grade book");
 
-            var grades = new List<double>() { 12.7, 10.3, 6.11, 4.1 };
-            grades.Add(56.1);
-            int numGrades = grades.Count;
-            double total = 0;
-            foreach( var grade in grades)
-            {
-                total = grade + total;
-            }
-            total /= numGrades;
+            book.AddGrade(78.1);
+            book.AddGrade(89.1);
+            book.AddGrade(77.5);
+            book.ShowStatics();
 
-            Console.Write($"My average grade is equal to {total}");
         }
     }
 }
