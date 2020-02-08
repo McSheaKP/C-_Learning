@@ -9,3 +9,13 @@
 /Users/kmcshea/Development/C#-Fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfo.cs
 /Users/kmcshea/Development/C#-Fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.dll
 /Users/kmcshea/Development/C#-Fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.pdb
+C:\dev\C_Learning\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\dev\C_Learning\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\dev\C_Learning\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\dev\C_Learning\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\dev\C_Learning\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\dev\C_Learning\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+C:\dev\C_Learning\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\dev\C_Learning\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\dev\C_Learning\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\dev\C_Learning\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb

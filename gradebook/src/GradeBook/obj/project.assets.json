@@ -686,28 +686,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/kmcshea/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\kmcshea\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kmcshea/Development/C#-Fundamentals/gradebook/src/GradeBook/GradeBook.csproj",
+      "projectUniqueName": "C:\\dev\\C_Learning\\gradebook\\src\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "/Users/kmcshea/Development/C#-Fundamentals/gradebook/src/GradeBook/GradeBook.csproj",
-      "packagesPath": "/Users/kmcshea/.nuget/packages/",
-      "outputPath": "/Users/kmcshea/Development/C#-Fundamentals/gradebook/src/GradeBook/obj/",
+      "projectPath": "C:\\dev\\C_Learning\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "packagesPath": "C:\\Users\\kmcshea\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\C_Learning\\gradebook\\src\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "/Users/kmcshea/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kmcshea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -732,10 +735,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
